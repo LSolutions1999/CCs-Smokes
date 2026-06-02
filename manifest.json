@@ -1,0 +1,10 @@
+{
+    "name": "CC-Smokes",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/LSolutions1999/CC-Smokes",
+    "description": "Cigar and Cigarette facewear cosmetics for Gamble with Your Friends.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305",
+        "mrmeeseeks-MoreCosmetics-0.2.3"
+    ]
+}
