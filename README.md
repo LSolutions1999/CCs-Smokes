@@ -20,11 +20,15 @@ Cigar and Cigarette facewear cosmetics for [More Cosmetics](https://thunderstore
 
 \## Changelog
 
+\### v1.0.3
+
+* **Added the Changelog**
+
 
 
 \### v1.0.2
 
-* **Fixed the README Hyperlinks**
+* Fixed the README Hyperlinks
 
 
 
