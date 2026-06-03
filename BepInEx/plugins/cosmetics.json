@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cigarette",
+    "type": "Facewear",
+    "model": { "obj": "cigarette1.obj" },
+    "texture": "Cigar1.png"
+  },
+  {
+    "name": "Cigar",
+    "type": "Facewear",
+    "model": { "obj": "Cigar1.obj" },
+    "texture": "Cigar1.png"
+  }
+]
